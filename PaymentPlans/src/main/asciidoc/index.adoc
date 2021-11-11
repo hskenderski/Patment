@@ -1,0 +1,125 @@
+== change_password_successful
+include::{snippets}/change_password_successful/auto-section.adoc[]
+== change_password_password_dont_match
+include::{snippets}/change_password_password_dont_match/auto-section.adoc[]
+== change_password_password_is_not_allowed_to_have_white-space
+include::{snippets}/change_password_password_is_not_allowed_to_have_white-space/auto-section.adoc[]
+== change_password_password_must_contain_digit
+include::{snippets}/change_password_password_must_contain_digit/auto-section.adoc[]
+== change_password_password_must_contain_lower_case_letter
+include::{snippets}/change_password_password_must_contain_lower_case_letter/auto-section.adoc[]
+== change_password_password_must_contain_special_symbol
+include::{snippets}/change_password_password_must_contain_special_symbol/auto-section.adoc[]
+== change_password_password_must_contain_upper_case_letter
+include::{snippets}/change_password_password_must_contain_upper_case_letter/auto-section.adoc[]
+== change_password_password_should_have_min_7_symbols
+include::{snippets}/change_password_password_should_have_min_7_symbols/auto-section.adoc[]
+== change_password_wrong_old_password
+include::{snippets}/change_password_wrong_old_passowrd/auto-section.adoc[]
+
+== change_username_successful
+include::{snippets}/change_username_successful/auto-section.adoc[]
+== change_username_with_the_same_one
+include::{snippets}/change_username_with_the_same_one/auto-section.adoc[]
+== change_username_with_wrong_max_size
+include::{snippets}/change_username_with_wrong_max_size/auto-section.adoc[]
+== change_username_with_wrong_min_size
+include::{snippets}/change_username_with_wrong_min_size/auto-section.adoc[]
+== change_username_with_wrong_username
+include::{snippets}/change_username_with_wrong_username/auto-section.adoc[]
+== change_username_without_parameter
+include::{snippets}/change_username_without_parameter/auto-section.adoc[]
+
+== create_instalment_successfully
+include::{snippets}/create_instalment_successfully/auto-section.adoc[]
+== create_instalment_for_already_payed_payment_plan
+include::{snippets}/create_instalment_for_already_payed_payment_plan/auto-section.adoc[]
+== create_instalment_with_incorrect_
+include::{snippets}/create_instalment_with_incorrect_-decimal_fraction/auto-section.adoc[]
+== create_instalment_with_incorrect_
+include::{snippets}/create_instalment_with_incorrect_-decimal_integer_bigger_than_6_digits/auto-section.adoc[]
+== create_instalment_with_incorrect_payment_plan_id
+include::{snippets}/create_instalment_with_incorrect_payment_plan_id/auto-section.adoc[]
+== create_instalment_with_more_money_than_payment_plan_amount
+include::{snippets}/create_instalment_with_more_money_than_payment_plan_amount/auto-section.adoc[]
+== create_instalment_with_negative_amount
+include::{snippets}/create_instalment_with_negative_amount/auto-section.adoc[]
+== create_instalment_with_payment_plan_id_length_less_than_32
+include::{snippets}/create_instalment_with_payment_plan_id_length_less_than_32/auto-section.adoc[]
+== create_instalment_with_payment_plan_id_length_more_than_32
+include::{snippets}/create_instalment_with_payment_plan_id_length_more_than_32/auto-section.adoc[]
+== create_instalment_with_zero_amount
+include::{snippets}/create_instalment_with_zero_amount/auto-section.adoc[]
+
+== create_payment_plan_successfully
+include::{snippets}/create_payment_plan_successfully/auto-section.adoc[]
+== create_payment_with_invalid_big_decimal_fraction
+include::{snippets}/create_payment_with_invalid_big_decimal_fraction/auto-section.adoc[]
+== create_payment_with_invalid_big_decimal_integer
+include::{snippets}/create_payment_with_invalid_big_decimal_integer/auto-section.adoc[]
+== create_payment_with_negative_value
+include::{snippets}/create_payment_with_negative_value/auto-section.adoc[]
+== create_payment_with_zero_value
+include::{snippets}/create_payment_with_zero_value/auto-section.adoc[]
+== create_payment_without_amount_parameter
+include::{snippets}/create_payment_without_amount_parameter/auto-section.adoc[]
+
+== login_successfully
+include::{snippets}/login_successfully/auto-section.adoc[]
+
+== register_successful
+include::{snippets}/register_successful/auto-section.adoc[]
+== register_address_cant_be_blank
+include::{snippets}/register_address_cant_be_blank/auto-section.adoc[]
+== register_names_cant_be_blank
+include::{snippets}/register_names_cant_be_blank/auto-section.adoc[]
+== register_names_must_be_max_100_symbols
+include::{snippets}/register_names_must_be_max_100_symbols/auto-section.adoc[]
+== register_names_must_be_min_5_symbols
+include::{snippets}/register_names_must_be_min_5_symbols/auto-section.adoc[]
+== register_password_cant_be_blank
+include::{snippets}/register_password_cant_be_blank/auto-section.adoc[]
+== register_password_confirmation_cant_be_blank
+include::{snippets}/register_password_confirmation_cant_be_blank/auto-section.adoc[]
+== register_username_already_exist
+include::{snippets}/register_username_already_exist/auto-section.adoc[]
+
+== show_all_payment_plans_successfully_amount_from_to
+include::{snippets}/show_all_payment_plans_successfully_amount_from_to/auto-section.adoc[]
+== show_all_payment_plans_successfully_amount_from_to_sort_by_remaining_to_paid_money_desc
+include::{snippets}/show_all_payment_plans_successfully_amount_from_to_sort_by_remaining_to_paid_money_desc/auto-section.adoc[]
+== show_all_payment_plans_successfully_amount_from_to_with_plan_id
+include::{snippets}/show_all_payment_plans_successfully_amount_from_to_with_plan_id/auto-section.adoc[]
+== show_all_payment_plans_successfully_with_name
+include::{snippets}/show_all_payment_plans_successfully_with_name/auto-section.adoc[]
+== show_all_payment_plans_successfully_with_person_id
+include::{snippets}/show_all_payment_plans_successfully_with_person_id/auto-section.adoc[]
+== show_all_payment_plans_successfully_with_username
+include::{snippets}/show_all_payment_plans_successfully_with_username/auto-section.adoc[]
+== show_all_payment_plans_wrong_sort_criteria
+include::{snippets}/show_all_payment_plans_wrong_sort_criteria/auto-section.adoc[]
+== show_payments_by_payment_plan_id_successfully
+include::{snippets}/show_payments_by_payment_plan_id_successfully/auto-section.adoc[]
+== show_payments_by_payment_plan_id_with_empty_payment_plan_id
+include::{snippets}/show_payments_by_payment_plan_id_with_empty_payment_plan_id/auto-section.adoc[]
+== show_payments_by_payment_plan_id_with_invalid_payment_plan_id
+include::{snippets}/show_payments_by_payment_plan_id_with_invalid_payment_plan_id/auto-section.adoc[]
+== show_payments_by_payment_plan_id_with_payment_plan_id_size_less_than_32
+include::{snippets}/show_payments_by_payment_plan_id_with_payment_plan_id_size_less_than_32/auto-section.adoc[]
+== show_payments_by_payment_plan_id_with_payment_plan_id_size_more_than_32
+include::{snippets}/show_payments_by_payment_plan_id_with_payment_plan_id_size_more_than_32/auto-section.adoc[]
+
+== show_profile_successful
+include::{snippets}/show_profile_successful/auto-section.adoc[]
+== show_profile_wrong_url
+include::{snippets}/show_profile_wrong_url/auto-section.adoc[]
+
+== update_payment_amount_successfully
+include::{snippets}/update_payment_amount_successfully/auto-section.adoc[]
+== update_payment_amount_with_wrong_id
+include::{snippets}/update_payment_amount_with_wrong_id/auto-section.adoc[]
+
+== update_payment_plan_amount_successfully
+include::{snippets}/update_payment_plan_amount_successfully/auto-section.adoc[]
+== update_payment_plan_amount_with_wrong_id
+include::{snippets}/update_payment_plan_amount_with_wrong_id/auto-section.adoc[]

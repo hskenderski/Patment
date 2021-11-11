@@ -1,0 +1,18 @@
+spring:
+  jpa:
+    database-platform: org.hibernate.dialect.Oracle10gDialect
+    open-in-view: true
+    hibernate:
+      ddl-auto: none
+  #      ddl-auto: create-drop
+  #      ddl-auto: validate
+
+  datasource:
+    driver-class-name: oracle.jdbc.OracleDriver
+    url: "jdbc:oracle:thin:@//localhost:1521/orcl"
+    username: "system"
+    password: "12345678"
+logging:
+  level:
+    org.hibernate.SQL: DEBUG
+    org.hibernate.type.descriptor.sql.BasicBinder: TRACE
